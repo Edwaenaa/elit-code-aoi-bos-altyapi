@@ -20,6 +20,6 @@ bot.status({
 })
 
 bot.variables({
-Elit Code: "<3",
+ElitCode: "<3",
 aoijs:"<3"
 })
